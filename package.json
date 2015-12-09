@@ -1,0 +1,19 @@
+{
+  "name": "loadorphandb",
+  "version": "1.0.0",
+  "description": "Parses a JSON array of content files, then uses getlinks API to grab all the links in that page, then loads that into the OrphanDB database.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brizrobbo/loadorphandb.git"
+  },
+  "author": "Craig Robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brizrobbo/loadorphandb/issues"
+  },
+  "homepage": "https://github.com/brizrobbo/loadorphandb#readme"
+}
